@@ -1,0 +1,29 @@
+p {
+    color: red;
+}
+
+.coolstyles {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+.big{
+    font-size: 5rem;
+}
+
+#feature-heading {
+    text-decoration: line-through;
+}
+
+li:nth-child(2n){
+    background-color: aquamarine;
+}
+
+img{
+    width: 50vw;
+}
+
+div{
+    width: 70%;
+    border: 2px, solid red;
+}
